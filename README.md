@@ -5,10 +5,6 @@ This is Simple Weather Application in IOS
 - UIsearchBar
 - Json Data Api
 
-## GIF
-#####  1
-![Page 1](weather.gif)
-
 ## ScreenShot
 ##### Page 1
 ![Page 1](W1.png)
